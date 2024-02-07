@@ -20,5 +20,5 @@ Implement solution using the Builder Pattern to address the issue.
 # UML Class Diagram
 
 <center>
-           ![SoftEng 2 - builderPattern](https://github.com/Brylsmn/builderPattern/assets/142909052/57836644-8595-4c4c-93c5-3d51cc8377d4)
+![SoftEng 2 - builderPattern](https://github.com/Brylsmn/builderPattern/assets/142909052/57836644-8595-4c4c-93c5-3d51cc8377d4)
 </center>
